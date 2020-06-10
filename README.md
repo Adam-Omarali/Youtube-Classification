@@ -4,5 +4,3 @@ I used a process similar to sentimiment analysis, to help classify YouTube Video
 Why? There are many problems in the world, we just don't have enough people working on important problems. YouTube has the information needed to educate people, but we have all fallen down that rabbit hole. Using this approach, we can educate people on what they need to know to make an impact.
 
 Check out my article to learn more https://medium.com/@pokeninjawhiz/closing-the-black-hole-making-youtube-more-productive-with-nlp-a38e9993238c
-
-Website: https://adam-omarali.github.io/Youtube-Classification/
